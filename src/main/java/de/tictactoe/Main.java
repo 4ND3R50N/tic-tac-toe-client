@@ -19,7 +19,7 @@ public class Main{
 
         //Regeln des Spiels
         //Spielfeld ausgeben.
-        System.out.println("Hallo und herzlich Wilkommen zum Tic-Tac-Toe Game von Lars und Isa");
+        System.out.println("Hallo und herzlich Wilkommen zum Tic-Tac-Toe Game von Lars und Isa!");
         System.out.println("Nachfolgend siehst du, wie dein Spielfeld aussehen wird:");
         System.out.println("7 | 8 | 9");
         System.out.println("----------");
