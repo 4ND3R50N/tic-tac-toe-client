@@ -14,7 +14,14 @@ public class MatchField {
         this.columns = columns + 1;
         this.separationBar = generateSeparatorBar();
 
+        //Here I assign the size to the MatchField
         symbols = new char[this.rows][this.columns];
+        //Here I fill the space of the MatchField with empty chars
+        for (int y = 0; y < this.rows; y++) {
+            for (int x = 0; x < this.columns; x++) {
+                symbols[y][x] = ' ';
+            }
+        }
 
     }
 
