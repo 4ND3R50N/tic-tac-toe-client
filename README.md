@@ -2,4 +2,5 @@
 ## Game logic
 ![alt text](doc/user_journey.drawio.png)
 
-![Klassendiagramm Tic-Tac-Toe]() 
+##Klassendiagramm
+![alt text](C:\Users\isabe\OneDrive\Desktop\GameLogic\TicTacToe-Klassendiagramm.png) 
