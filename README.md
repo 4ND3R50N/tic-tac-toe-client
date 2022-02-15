@@ -3,4 +3,4 @@
 ![alt text](doc/user_journey.drawio.png)
 
 ##Klassendiagramm
-![alt text](C:\Users\isabe\OneDrive\Desktop\GameLogic\TicTacToe-Klassendiagramm.png) 
+![alt text](doc/TicTacToe-Klassendiagramm.png) 
