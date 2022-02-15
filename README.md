@@ -2,5 +2,5 @@
 ## Game logic
 ![alt text](doc/user_journey.drawio.png)
 
-##Klassendiagramm
+## Klassendiagramm
 ![alt text](doc/TicTacToe-Klassendiagramm.png) 
